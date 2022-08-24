@@ -1,0 +1,8 @@
+.section-container {
+    border-style: solid;
+    border-width: 0.05em;
+}
+
+.entry-heading {
+    text-transform: uppercase;
+}
