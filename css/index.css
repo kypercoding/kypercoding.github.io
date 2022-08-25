@@ -1,6 +1,14 @@
 .name-container {
     background-color: rgb(114, 114, 114);
     padding: 2em;
+    transition: 0.3s;
+    margin: auto;
+}
+
+.name-container:hover {
+    background-color: antiquewhite;
+    color: black;
+    transform: scale(0.9);
 }
 
 .heading {
