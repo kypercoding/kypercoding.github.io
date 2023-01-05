@@ -40,36 +40,20 @@ body {
     padding: 0;
 }
 
-
 /* Navigation bar styling */
 #navbar ul {
-    display: block;
+    display: flex;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
 .nav-item {
-    display: block;
+    display: flex;
     width: 100%;
     margin: 0;
 }
 
-@media (min-width: 500px) {
-    /* Navigation bar styling */
-    #navbar ul {
-        display: flex;
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-
-    .nav-item {
-        display: flex;
-        width: 100%;
-        margin: 0;
-    }
-}
 
 .nav-link {
     display: flex;
