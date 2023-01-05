@@ -1,9 +1,17 @@
 .link {
     margin: auto;
     width: 50%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.box-heading {
+    text-transform: uppercase;
 }
 
 .box-container {
+    display: block;
+    margin: auto;
     padding: 1em;
 }
 
